@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497550426554",
+    "project_id": "private-chats-d404c",
+    "storage_bucket": "private-chats-d404c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497550426554:android:105b1b987f48d7ea26dd83",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1i0U2tug5YlVATwPG5Hes9QUbpVSXDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
